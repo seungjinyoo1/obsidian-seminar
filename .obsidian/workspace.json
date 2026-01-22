@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "219ef5025f36582b",
+        "id": "9e595cb41ed493ca",
         "type": "tabs",
         "children": [
           {
-            "id": "392dc4b6907bf26e",
+            "id": "2d36d948a68e7ac2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "4. Archives/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Untitled"
             }
           }
         ]
@@ -40,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CLAUDE"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CLAUDE"
             }
           },
           {
@@ -150,16 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CLAUDE"
             }
           },
           {
-            "id": "710f8613fd722e4d",
+            "id": "296f1fc23c5f36c6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -177,29 +184,35 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "392dc4b6907bf26e",
+  "active": "2d36d948a68e7ac2",
   "lastOpenFiles": [
-    "2. Areas/Untitled.md",
+    "3. Resources/Seminar/커리큘럼_로드맵.png",
+    "3. Resources/Seminar/day1/커리큘럼_로드맵.png",
+    "3. Resources/Seminar/day1/Phase1_기본환경설정_도구설치.md",
+    "3. Resources/Seminar/day1/퇴직준비세미나_Phase1_사전과제_공지.md",
+    "3. Resources/Seminar/day1",
+    "3. Resources/Seminar/새 폴더",
+    "3. Resources/Seminar/퇴직준비세미나_Phase1_사전과제_공지.md",
+    "3. Resources/Seminar/Phase1_기본환경설정_도구설치.md",
     "4. Archives/Untitled.md",
     "CLAUDE.md",
+    "4. Archives",
+    "2. Areas/Untitled.md",
+    "2. Areas",
     "1. Projects/Untitled.md",
-    "3. Resources/Seminar/Phase1_기본환경설정_도구설치.md",
-    "3. Resources/Seminar/퇴직준비세미나_Phase1_사전과제_공지.md",
+    "1. Projects",
     "3. Resources/Seminar.md",
     "3. Resources/Seminar",
-    "4. Archives",
-    "3. Resources",
-    "2. Areas",
-    "1. Projects"
+    "3. Resources"
   ]
 }
