@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9e595cb41ed493ca",
+        "id": "219ef5025f36582b",
         "type": "tabs",
         "children": [
           {
-            "id": "2d36d948a68e7ac2",
+            "id": "392dc4b6907bf26e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "3. Resources/Seminar/day1/github_repo_screenshot.png"
+                "file": "3. Resources/Seminar/day1/연습.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "github_repo_screenshot"
+              "icon": "lucide-file",
+              "title": "연습"
             }
           }
         ]
@@ -42,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 434.5
   },
   "right": {
     "id": "71fb0022d97352af",
@@ -154,17 +156,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "3. Resources/Seminar/day1/연습.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CLAUDE"
+              "title": "Outline of 연습"
             }
           },
           {
-            "id": "296f1fc23c5f36c6",
+            "id": "710f8613fd722e4d",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -182,42 +184,40 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 일일 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false,
-      "obsidian-git:Open Git source control": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2d36d948a68e7ac2",
+  "active": "392dc4b6907bf26e",
   "lastOpenFiles": [
-    "3. Resources/Seminar/day1/claude_code_screenshot.png",
-    "3. Resources/Seminar/day1/Phase1_기본환경설정_도구설치.md",
-    "3. Resources/Seminar/day1/github_repo_screenshot.png",
-    "3. Resources/Seminar/day1/1.png",
-    "3. Resources/Seminar/day1/사본 -claude_code_screenshot.png",
-    "3. Resources/Seminar/day1/claude_code_screenshot.png.bmp",
-    "3. Resources/Seminar/day1/claude 설치화면.bmp",
-    "3. Resources/Seminar/day1/새 비트맵 이미지.bmp",
-    "3. Resources/Seminar/day1/퇴직준비세미나_Phase1_사전과제_공지.md",
     "3. Resources/Seminar/커리큘럼_로드맵.png",
-    "4. Archives/Untitled.md",
-    "3. Resources/Seminar/day1/커리큘럼_로드맵.png",
-    "3. Resources/Seminar/day1",
-    "3. Resources/Seminar/새 폴더",
-    "3. Resources/Seminar/퇴직준비세미나_Phase1_사전과제_공지.md",
-    "3. Resources/Seminar/Phase1_기본환경설정_도구설치.md",
-    "CLAUDE.md",
-    "4. Archives",
+    "3. Resources/Seminar/day1/연습.md",
     "2. Areas/Untitled.md",
-    "2. Areas",
+    "Recording 20260203100218.m4a",
+    "Recording 20260203100540.m4a",
+    "3. Resources/Seminar/day1/퇴직준비세미나_Phase1_사전과제_공지.md",
+    "3. Resources/Seminar/day1/Phase1_기본환경설정_도구설치.md",
+    "4. Archives/Untitled.md",
+    "3. Resources/Seminar/day1/github_repo_screenshot.png",
+    "3. Resources/Seminar/day1/claude_code_screenshot.png",
+    "CLAUDE.md",
+    "3. Resources/Seminar/day1",
+    "Untitled.base",
     "1. Projects/Untitled.md",
-    "1. Projects",
+    "3. Resources/Seminar/Phase1_기본환경설정_도구설치.md",
+    "3. Resources/Seminar/퇴직준비세미나_Phase1_사전과제_공지.md",
     "3. Resources/Seminar.md",
     "3. Resources/Seminar",
-    "3. Resources"
+    "4. Archives",
+    "3. Resources",
+    "2. Areas",
+    "1. Projects"
   ]
 }
